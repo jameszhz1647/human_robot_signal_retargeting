@@ -2,9 +2,9 @@
 
 * Haozhi Zhang
 * MSR Final Project  
-* [Portfolio Post](https://aonai.github.io/linked_posts/myo_robot_arm.html)
-* Human Data Acquisition
-* Robot Data Acquisition
+* [Portfolio Post](https://jameszhz1647.wixsite.com/haozhizhang/general-8)
+* [Human Data Acquisition](https://github.com/jameszhz1647/connect_myo/tree/human_data_acquisition_clean)
+* [Robot Data Acquisition](https://github.com/jameszhz1647/RobotArmOutput/tree/robot_data_acquisition_clean)
 
 ## Overview
 
